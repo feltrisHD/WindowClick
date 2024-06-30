@@ -20,5 +20,5 @@ For dnf package manager: sudo dnf install gcc-c++ SDL2-devel
 
 How to compile:
 Change into the Directory the WindowClick.cpp file is located and run: 
-g++ WindowClick1.1.cpp -o WindowClick -lSDL2
+g++ WindowClick1.1.cpp font.h -o WindowClick -lSDL2 -lSDL2_ttf
 
