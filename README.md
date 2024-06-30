@@ -5,7 +5,7 @@ Simple game written in C++ with the SDL2 library
 At the start, there spawns one window at the center of the screen, when you click inside of it, another window in a random location will spawn etc..  you can see in the Window how long you took to click the last Window after it spawned, the goal is it, to get the lowest time possible. To close, just press the X in your bar above the Window.
 
 # How to run
-1. Download WindowClick from the latest release
+1. Download WindowClick and Font.ttf from the latest release
 2. Open Terminal
 3. Type: cd Downloads
 4. Type: chmod +x WindowClick
