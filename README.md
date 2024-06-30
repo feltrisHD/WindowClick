@@ -9,8 +9,7 @@ At the start, there spawns one window at the center of the screen, when you clic
 2. Open Terminal
 3. Type: cd Downloads
 4. Type: chmod +x WindowClick
-5. Type: ./WindowClick
-6. or you can just double click the file, but then you don't see your time!
+5. Double click the file.
 
 # How to compile from source
 Requirements:
@@ -21,5 +20,5 @@ For dnf package manager: sudo dnf install gcc-c++ SDL2-devel
 
 How to compile:
 Change into the Directory the WindowClick.cpp file is located and run: 
-g++ WindowClick.cpp -o WindowClick -lSDL2
+g++ WindowClick1.1.cpp -o WindowClick -lSDL2
 
